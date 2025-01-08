@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import ApplicantResult from "./Pages/applicantResult";
+import ApplicantResult from "./pages/applicantResult";
 
 const App = () => {
   return (
